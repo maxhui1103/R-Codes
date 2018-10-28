@@ -1,4 +1,4 @@
-# This is about Random Forest
+# This is about Naive Bayes
 
 library(naivebayes)
 library(caret)
